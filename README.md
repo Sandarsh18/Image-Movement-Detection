@@ -23,12 +23,12 @@ pip install opencv-python
 🚀 How to Run
 Clone the repository:
 
-copy
+
 git clone https://github.com/your-username/motion-detection-opencv.git
 cd motion-detection-opencv
 Run the script:
 
-copy
+
 python motion_detector.py
 🧠 How It Works
 A background subtractor is used to isolate moving elements in the video feed.
@@ -38,7 +38,7 @@ Visual output includes:
 The video frame with motion boxes
 The foreground mask showing motion regions
 📂 File Structure
-copy
+
 motion-detection-opencv/
 │
 ├── motion_detector.py      # Main script
@@ -57,9 +57,6 @@ This project is open-source and available under the MIT License.
 
 Made with ❤️ using OpenCV
 
-copy
-
----
 
 ### ✅ To Use It:
 1. Create a file in your project root called `README.md`
@@ -67,5 +64,3 @@ copy
    - `your-username` in the GitHub URL and image path
    - Add a sample image if you want
    - Adjust file/script names if yours differ
-
-Would you like me to also generate a sample `LICENSE` file (MIT) or `.gitignore`?

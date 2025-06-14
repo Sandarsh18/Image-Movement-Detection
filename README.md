@@ -45,7 +45,8 @@ motion-detection-opencv/
 ├── README.md               # Project documentation
 📌 Sample Output
 sample
-(optional if you add an image)
+![image](https://github.com/user-attachments/assets/4abfbda6-e882-4c82-bfb0-193a09e60c78)
+
 
 💡 Future Improvements
 Record video on motion
